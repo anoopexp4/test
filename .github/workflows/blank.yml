@@ -31,12 +31,12 @@ jobs:
          echo Hello, world!
          echo PWD
          whoami
-         mkdir /log
+         mkdir log
          pwd 
          ls -l /
          echo ------------------------
          ls -l /data
-         mv /log /data
+         mv log /data
          echo ------
          ls -l /data
      
